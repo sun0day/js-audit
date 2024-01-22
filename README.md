@@ -1,5 +1,6 @@
-
+<p align="center">
   <img src="https://api.iconify.design/ph/bug-fill.svg?download=1&color=%23f08&width=160&rotate=2" />
+</p>
 
 # js-audit
 
